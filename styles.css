@@ -7,3 +7,8 @@ footer{
     background-color: blue;
     color: white;
 }
+header{
+    color: gray;
+    background: yellow;
+    text-align: center;
+}
